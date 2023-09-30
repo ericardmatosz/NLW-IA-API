@@ -7,7 +7,7 @@
 </div>
 
 
-This project was created during the Next Level Week - IA event.
+This project was created during the Next Level Week - AI event.
 
 This project is an API that transcribes a .mp3 audio and performs actions through artificial intelligence.
 
@@ -26,7 +26,7 @@ This project was developed with the following <strong>technologies</strong>:
 The project has the following <strong>features</strong>:
 - Generate a transcription of an mp3 audio with AI
 - Prompt listing
-- Uploading audios and transcriptions to the database
+- Uploading audio and transcriptions to the database
 - Execute the prompt action through AI and return a response
 
 ## 🤖 How do I start the project?
@@ -36,4 +36,4 @@ This project must be run and accessed through port `localhost:3333`
 
 *To start this project you need node v18+.
 
-This project was created to be integrated with <a href='https://github.com/ericardmatosz/NLW-IA'>NLW Upload IA</a>, if you want to have the whole experience, run <a href='https://github.com/ericardmatosz/NLW-IA'>NLW Upload IA</a> in conjunction with the API 😁.
+This project was created to be integrated with <a href='https://github.com/ericardmatosz/NLW-IA'>NLW Upload AI</a>, if you want to have the whole experience, run <a href='https://github.com/ericardmatosz/NLW-IA'>NLW Upload AI</a> in conjunction with the API 😁.
